@@ -1,0 +1,6 @@
+1.- Abrir una ventana de comandos CMD 
+2.- Ejecutar comando net stop WuAuServ 
+3.- Vamos a Inicio - Ejecutar y escribimos %windir% y presionamos la tecla Enter 
+4.- Cambiamos el nombre de la Carpeta SoftwareDistribution a SDold. 
+5.- Abrir una ventana de comandos CMD 
+6.- Ejecutar comando net start WuAuServ

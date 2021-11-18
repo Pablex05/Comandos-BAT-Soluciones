@@ -1,0 +1,6 @@
+presionamos alt + F10 -> nos abre la consola
+
+net user [cuenta administrador] /active:yes
+net user /add (User) (Pass)
+cd %windir%\system32\oobe
+msoobe.exe

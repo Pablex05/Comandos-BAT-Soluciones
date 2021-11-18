@@ -1,0 +1,7 @@
+PASOS PARA SOLUCIONAR EL PROBLEMA:
+
+1) Abre el símbolo del sistema como Administrador. Buscar ‘cmd’ y haz clic derecho en cmd y selecciona ‘Ejecutar como administrador’.
+
+2) Escribe los siguientes comandos:
+Netsh winsock reset catalog
+Netsh int ipv4 reset reset.log

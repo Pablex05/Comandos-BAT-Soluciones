@@ -1,0 +1,4 @@
+cd \
+cd c:\windows\system32\oobe
+msoobe
+
