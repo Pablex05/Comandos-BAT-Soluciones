@@ -1,4 +1,4 @@
-cuando la ventana de la instalacion te marque error, entonces precionas varias veces el boton shift y te tendria que salir una consola, y desde ahi
+cuando la ventana de la instalacion te marque error, entonces precionas varias veces el boton shift ( o alt + F10 ) y se te tendria que salir una consola, y desde ahi
 escribe los siguientes comandos:
 
 cd \
