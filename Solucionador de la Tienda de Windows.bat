@@ -1,3 +1,5 @@
+sirve para solucionar el servicio de Windows Update
+
 sc config wuauserv start= auto
 sc config bits start= auto
 sc config DcomLaunch start= auto
